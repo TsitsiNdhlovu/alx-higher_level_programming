@@ -1,4 +1,5 @@
- MagicClass that  matches 103"""
+#!/usr/bin/python3
+"""Define a MagicClass that  matches 103"""
 
 import math
 

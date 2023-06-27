@@ -1,6 +1,5 @@
-
-dule for a singly linked list"""
-
+#!/usr/bin/python3
+"""module for a singly linked list"""
 
 class Node:
     """"defines a node"""

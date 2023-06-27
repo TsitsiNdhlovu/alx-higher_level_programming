@@ -1,4 +1,5 @@
-quare.py by TSITSI NDHLOVU
+#!/usr/bin/python3
+# 0-square.py by tsitsi ndhlovu
 """A module that defines a square """
 
 

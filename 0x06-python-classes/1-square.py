@@ -1,4 +1,5 @@
- a class known as square"""
+#!/usr/bin/python3
+"""defines a class known as square"""
 
 
 class Square:
